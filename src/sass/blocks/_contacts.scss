@@ -96,4 +96,13 @@
         font-size: 14px;
         line-height: 21px;
     }
+    &__phone__mail {
+        display: grid;
+        margin: 10px 0;
+        a {
+            color: #111;
+            text-decoration: none;
+            margin: 2px 0;
+        }
+    }
 }
